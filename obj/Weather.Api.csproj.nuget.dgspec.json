@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\web-app-docker-cicd\\Weather.Api\\Weather.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\web-app-docker-cicd\\Weather.Api\\Weather.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\web-app-docker-cicd\\Weather.Api\\Weather.Api.csproj",
+        "projectName": "Weather.Api",
+        "projectPath": "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\web-app-docker-cicd\\Weather.Api\\Weather.Api.csproj",
+        "packagesPath": "C:\\Users\\teerapon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\web-app-docker-cicd\\Weather.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teerapon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
