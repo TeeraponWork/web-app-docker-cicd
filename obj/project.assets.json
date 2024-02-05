@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\web-app-docker-cicd\\Weather.Api\\Weather.Api.csproj",
+      "projectUniqueName": "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\qqqq\\web-app-docker-cicd\\Weather.Api.csproj",
       "projectName": "Weather.Api",
-      "projectPath": "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\web-app-docker-cicd\\Weather.Api\\Weather.Api.csproj",
+      "projectPath": "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\qqqq\\web-app-docker-cicd\\Weather.Api.csproj",
       "packagesPath": "C:\\Users\\teerapon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\web-app-docker-cicd\\Weather.Api\\obj\\",
+      "outputPath": "C:\\Users\\teerapon\\OneDrive\\เดสก์ท็อป\\qqqq\\web-app-docker-cicd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\teerapon\\AppData\\Roaming\\NuGet\\NuGet.Config",
